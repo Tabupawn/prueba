@@ -1,0 +1,52 @@
+    {
+        "name": "Dave Starbelly",
+        "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
+        "external_url": "https://openseacreatures.io/3", 
+        "image": "https://raw.githubusercontent.com/Tabupawn/prueba/main/27.jpg", 
+        "attributes": [
+            {
+            "trait_type": "Color", 
+            "value": "Marron y blanco"
+            }, 
+            {
+            "trait_type": "Sanidad", 
+            "value": "Excelente"
+            }, 
+            {
+            "trait_type": "Binestar", 
+            "value": "Excelente"
+            }, 
+            {
+            "trait_type": "Edad", 
+            "value": 1
+            }, 
+            {
+            "trait_type": "Estado", 
+            "value": 1.4
+            }, 
+            {
+            "trait_type": "Personality", 
+            "value": "Sad"
+            }, 
+            {
+            "display_type": "boost_number", 
+            "trait_type": "Tokenes", 
+            "value": 38000000
+            }, 
+            {
+            "display_type": "boost_percentage", 
+            "trait_type": "Stamina Increase", 
+            "value": 25
+            }, 
+            {
+            "display_type": "number", 
+            "trait_type": "Generation", 
+            "value": 1
+            }
+            {
+                "display_type": "date", 
+                "trait_type": "birthday", 
+                "value": 1631745977
+            }
+        ], 
+    }
