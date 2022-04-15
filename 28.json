@@ -42,7 +42,7 @@
             "display_type": "number", 
             "trait_type": "Generation", 
             "value": 1
-            }
+            },
             {
                 "display_type": "date", 
                 "trait_type": "birthday", 
