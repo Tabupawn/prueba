@@ -10,7 +10,7 @@
    {"value":"Eve 14","trait_type":"Madre"},
    {"value":"Adam 2","trait_type":"Padre"},
    {"value":"Genesis","trait_type":"Hato"},
-   {"value":"3","trait_type":"Vacunas"},
+   {"value":"4","trait_type":"Vacunas"},
    {"value":"0","trait_type":"Terneros"},
    {"value":"38.000.000","trait_type":"Tokenes restantes"},
    {"display_type":"boost_percentage","trait_type":"Tokenes consumidos","value":10},
