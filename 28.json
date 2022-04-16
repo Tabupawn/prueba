@@ -11,6 +11,7 @@
    {"value":"Balloon","trait_type":"BG"},
    {"value":"Normal","trait_type":"Eyes"},
    {"value":"No","trait_type":"Props"},
-   {"value":"No","trait_type":"Effect"}],
-   {"value":38000000"display_type": "boost_number","trait_type":"Tokenes"}, 
+   {"value":"No","trait_type":"Effect"},
+   {"value":38000000"display_type": "boost_number","trait_type":"Tokenes"}
+   {"display_type": "date","trait_type": "birthday","value": 1631745977}], 
  "dna":"0xb95eb5e72784e8d9ea90651876c1aff70e7352b5a397bde7d2a559f18e6cc91c"}
