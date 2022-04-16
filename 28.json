@@ -45,8 +45,8 @@
             },
             {
             "display_type": "date", 
-                "trait_type": "birthday", 
-                "value": 1631745977
+            "trait_type": "birthday", 
+            "value": 1631745977
             }
         ], 
     }
