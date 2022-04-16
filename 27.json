@@ -4,7 +4,7 @@
  "external_url":"https://github.com/Tabupawn/prueba/",
  "attributes":[
    {"value": "Marron y blanco","trait_type": "Color"}, 
-   {"value":"September 17 2021","trait_type":"Birth"},
+   {"value":"09/17/2021","trait_type":"Birth"},
    {"value":"First","trait_type":"Generation"},
    {"value":"Eve 14","trait_type":"Madre"},
    {"value":"Adam 2","trait_type":"Padre"},
