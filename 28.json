@@ -4,13 +4,13 @@
  "external_url":"https://github.com/Tabupawn/prueba/",
  "attributes":[
    {"value": "Marron y blanco","trait_type": "Color"}, 
-   {"value":"September 17, 2021","trait_type":"Birth"},
+   {"value":"September 17 2021","trait_type":"Birth"},
    {"value":"First","trait_type":"Generation"},
    {"value":"Eve 14","trait_type":"Madre"},
    {"value":"Adam 2","trait_type":"Padre"},
    {"value":"Genesis","trait_type":"Hato"},
    {"value":"3","trait_type":"Vacunas"},
-   {"value":"38,000,000","trait_type":"Tokenes"},
+   {"value":"38000000","trait_type":"Tokenes"},
    {"display_type":"boost_number","trait_type":"Alpha fragments","value":1},
    {"display_type":"boost_number","trait_type":"Omega fragments","value":0},
    {"display_type":"boost_percentage","trait_type":"Non fragments","value":5}
