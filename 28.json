@@ -12,4 +12,5 @@
    {"value":"Normal","trait_type":"Eyes"},
    {"value":"No","trait_type":"Props"},
    {"value":"No","trait_type":"Effect"}],
+   {"value":38000000"display_type": "boost_number","trait_type":"Tokenes"}, 
  "dna":"0xb95eb5e72784e8d9ea90651876c1aff70e7352b5a397bde7d2a559f18e6cc91c"}
