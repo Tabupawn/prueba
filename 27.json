@@ -1,22 +1,25 @@
-{"name":"Dave Starbelly #26",
- "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/26.jpg",
- "description":"Friendly OpenSea Creature that enjoys long swims in the ocean.",
- "external_url":"https://github.com/Tabupawn/prueba/",
- "attributes":[
-   {"value": "Marron y blanco","trait_type": "Color"}, 
-   {"value":"09/17/2021","trait_type":"Birth"},
-   {"value":"04/1/2022","trait_type":"Actualizacion"},
-   {"value":"First","trait_type":"Generation"},
-   {"value":"Eve 14","trait_type":"Madre"},
-   {"value":"Adam 2","trait_type":"Padre"},
-   {"value":"Genesis","trait_type":"Hato"},
-   {"value":"4","trait_type":"Vacunas"},
-   {"value":"0","trait_type":"Terneros"},
-   {"value":"38.000.000","trait_type":"Tokenes restantes"},
-   {"display_type":"boost_percentage","trait_type":"Tokenes consumidos","value":10},
-   {"display_type":"boost_percentage","trait_type":"Vida NFT","value":26},
-   {"display_type":"boost_percentage","trait_type":"Vida de la modelo","value":13},
-   {"display_type":"date","trait_type":"birthday","value":1631745977}
-   ]
-}
- 
+{
+    "name":"Dave Starbelly #26",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/1.jpg",
+    "description":"Friendly OpenSea Creature that enjoys long swims in the ocean.",
+    "external_url":"https://github.com/Tabupawn/prueba/1.doc",
+    "attributes":
+    [
+        {"value":"Marron y blanco","trait_type":"Color"},
+        {"value":"04/01/2022","trait_type":"Actualizacion"},
+        {"value":"First","trait_type":"Generation"},
+        {"value":"Eve 14","trait_type":"Madre"},
+        {"value":"Adam 2","trait_type":"Padre"},
+        {"value":"Genesis","trait_type":"Hato"},
+        {"value":"140 Kg.","trait_type":"Peso"},
+        {"value":"0","trait_type":"Terneros"},
+        {"value":"38000000","trait_type":"Tokenes restantes"},
+        {"display_type":"boost_percentage","trait_type":"Tokenes consumidos","value":10},
+        {"display_type":"boost_percentage","trait_type":"Vida NFT","value":26},
+        {"display_type":"boost_percentage","trait_type":"Vida de la modelo","value":100},
+        {"display_type":"date","trait_type":"birthday","value":1631745977},
+        {"display_type":"number","trait_type":"Generation","value":1}
+        ]
+    "traits":
+    [{"trait_type":"Estado"},{"value":"10}]
+    }
