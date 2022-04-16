@@ -4,14 +4,12 @@
  "external_url":"https://github.com/Tabupawn/prueba/",
  "attributes":[
    {"value": "Marron y blanco","trait_type": "Color"}, 
-   {"value":"Office Boy","trait_type":"Clothing"},
-   {"value":"Man","trait_type":"Head"},
-   {"value":"Handlebar Mustache","trait_type":"Mouth"},
-   {"value":"Nathan Road","trait_type":"Hair"},
-   {"value":"Balloon","trait_type":"BG"},
-   {"value":"Normal","trait_type":"Eyes"},
-   {"value":"No","trait_type":"Props"},
-   {"value":"No","trait_type":"Effect"},
-   {"value":38000000,"display_type": "boost_number","trait_type":"Tokenes"}
-   {"value": 1631745977,"display_type": "date","trait_type": "birthday"}], 
- "dna":"0xb95eb5e72784e8d9ea90651876c1aff70e7352b5a397bde7d2a559f18e6cc91c"}
+   {"value":"September 17, 2021","trait_type":"Birth"},
+   {"value":"First","trait_type":"Generation"},
+   {"value":"Eve 14","trait_type":"Madre"},
+   {"value":"Adam 2","trait_type":"Padre"},
+   {"value":"Genesis","trait_type":"Hato"},
+   {"value":"3","trait_type":"Vacunas"},
+   {"value":"38,000,000","trait_type":"Tokenes"},
+   ], 
+ 
