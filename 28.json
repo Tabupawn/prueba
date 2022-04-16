@@ -10,6 +10,9 @@
    {"value":"Adam 2","trait_type":"Padre"},
    {"value":"Genesis","trait_type":"Hato"},
    {"value":"3","trait_type":"Vacunas"},
-   {"value":"38,000,000","trait_type":"Tokenes"}
+   {"value":"38,000,000","trait_type":"Tokenes"},
+   {"display_type":"boost_number","trait_type":"Alpha fragments","value":1},
+   {"display_type":"boost_number","trait_type":"Omega fragments","value":0},
+   {"display_type":"boost_percentage","trait_type":"Non fragments","value":5}
    ]
  
