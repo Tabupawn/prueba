@@ -5,13 +5,13 @@
  "attributes":[
    {"value": "Marron y blanco","trait_type": "Color"}, 
    {"value":"09/17/2021","trait_type":"Birth"},
-   {"value":"04/1/2022","trait_type":"Actualizacion},
+   {"value":"04/1/2022","trait_type":"Actualizacion"},
    {"value":"First","trait_type":"Generation"},
    {"value":"Eve 14","trait_type":"Madre"},
    {"value":"Adam 2","trait_type":"Padre"},
    {"value":"Genesis","trait_type":"Hato"},
    {"value":"3","trait_type":"Vacunas"},
-   {"value":"38.000.000","trait_type":"Tokenes"},
+   {"value":"38.000.000","trait_type":"Tokenes restantes"},
    {"display_type":"boost_percentage","trait_type":"Tokenes consumidos","value":10},
    {"display_type":"boost_percentage","trait_type":"Vida NFT","value":26},
    {"display_type":"boost_percentage","trait_type":"Tokenes consumidos","value":13}
