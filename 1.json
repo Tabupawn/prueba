@@ -1,20 +1,19 @@
 {
-    "name":"Alisa 7 🐮",
-    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/7.jpg",
-    "description":"ALISA 0007# 5/5  \n\nAlisa is a determined and quiet. \n\nHer first months were difficult for her genesis mothers due to an intense drought, but she was able to grow up healthy. Like her sisters, she was going to be sold in feedlots, but TheLiveStock rescued her from that cruel fate.. \n\nShe is Good with humans. The relationship with the herd is  herd behavior. \n\nFollow Alisa life on the [website model 7]( https://thelivestock.live/model-7/)  \n\nMore information about the NFT: \n\nEdition: 5th of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
-    "external_url":"https://github.com/Tabupawn/prueba/7.doc",
+    "name":"Elspeth 9 🐮",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/9.jpg",
+    "description":"ELSPETH 0009# 1/5  \n\nElspeth is a determined and quiet. \n\nShe lost her mother when she was very young due to an intense drought, and she never adapted to being breastfed with a milk substitute, so she grew up with the rest of the mothers, despite this she was able to grow healthy, although she is still retarded in his body condition. His rarity is given by the white spots and the crescent on his forehead that give him a unique touch in addition to his fighting strength to survive despite his bad luck.. \n\nShe is fearful with humans. The relationship with the herd is  independent. \n\nFollow Elspeth life on the [website model 9]( https://thelivestock.live/model-9/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).","external_url":"https://github.com/Tabupawn/prueba/9.doc",
     "attributes":[
-        {"value":"light red solid","trait_type":"Coat"},
-        {"value":"common","trait_type":"Special features"},
+        {"value":"Red with white","trait_type":"Coat"},
+        {"value":"Rare","trait_type":"Special features"},
         {"value":"Without","trait_type":"Horns"},
         {"value":"Undefined","trait_type":"Mother"},
-        {"value":"herd behavior","trait_type":"Father"},
+        {"value":"independent","trait_type":"Father"},
         {"value":"Genesis","trait_type":"Herd of cows"},
-        {"value":"Good","trait_type":" Behavior with humans"},
-        {"value":"Good","trait_type":"Body condition"},
+        {"value":"fearful","trait_type":" Behavior with humans"},
+        {"value":"Fair","trait_type":"Body condition"},
         {"value":"Very determined","trait_type":"Primal personality"},
         {"value":"quiet","trait_type":"Secondary personality"},
-        {"value":"herd behavior","trait_type":"Personality with the herd"},
+        {"value":"independent","trait_type":"Personality with the herd"},
         {"value":"female","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
         {"display_type":"number","trait_type":"Life years","value":1,"max_value":10},
@@ -30,4 +29,4 @@
         {"display_type":"date","trait_type":"Date of the last reward","value":1944364156},
         {"display_type":"date","trait_type":"Latest metadata update","value":1663464845}
         ]
-}
+    }
