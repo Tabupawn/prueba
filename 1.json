@@ -17,7 +17,6 @@
         {"value":"female","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
         {"display_type":"number","trait_type":"Life years","value":1,"max_value":10},
-        {"display_type":"number"},
         {"trait_type":"Offspring of new cows","value":0,"max_value":10},
         {"trait_type":"Calf calving","value":0.1,"max_value":10},
         {"trait_type":"Weaned calves","value":0.1,"max_value":10},
