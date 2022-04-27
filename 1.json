@@ -1,19 +1,20 @@
+
 {
-    "name":"Kendra 21 🐮",
-    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/21.jpg",
-    "description":"KENDRA 0021# 🐮 1/5 \n\nKendra is a strong and quiet. \n\nIt is a powerful Animal in its muscular complexion although it does not stand out for its large size, it is a female that is going to be a great mother thanks to the ease of calving that in principle we hope it will inherit.. \n\nShe is Great with humans. The relationship with the herd is  herd behavior. \n\nFollow Kendra life on the [website model 21]( https://thelivestock.live/model-21/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
-    "external_url":"https://github.com/Tabupawn/prueba/21.doc",
+    "name":"Cristie 23 🐮",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/23.jpg",
+    "description":"CRISTIE 0023# 🐮 1/5 \n\nCristie is a Exotic and attractive. \n\nShe is a well-formed female with a bone structure that conditions her to be a good mother, she has a firm and sure walk. Her first months were difficult for her genesis mothers due to an intense drought, but she was able to grow up healthy. Like her sisters, she was going to be sold in feedlots, but TheLiveStock rescued her from that cruel fate.. \n\nShe is good with humans. The relationship with the herd is  herd behavior. \n\nFollow Cristie life on the [website model 23]( https://thelivestock.live/model-23/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
+    "external_url":"https://github.com/Tabupawn/prueba/23.doc",
     "attributes":[
-        {"value":"Wheat dark coloured","trait_type":"Coat"},
+        {"value":"wheat bright coloured","trait_type":"Coat"},
         {"value":"common","trait_type":"Special features"},
         {"value":"Without","trait_type":"Horns"},
         {"value":"Undefined","trait_type":"Mother"},
         {"value":"Undefined","trait_type":"Father"},
         {"value":"Genesis","trait_type":"Herd of cows"},
-        {"value":"Great","trait_type":" Behavior with humans"},
-        {"value":"Excellent","trait_type":"Body condition"},
-        {"value":"strong","trait_type":"Primal personality"},
-        {"value":"quiet","trait_type":"Secondary personality"},
+        {"value":"good","trait_type":" Behavior with humans"},
+        {"value":"good","trait_type":"Body condition"},
+        {"value":"Exotic","trait_type":"Primal personality"},
+        {"value":"attractive","trait_type":"Secondary personality"},
         {"value":"herd behavior","trait_type":"Personality with the herd"},
         {"value":"female","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
@@ -25,9 +26,9 @@
         {"display_type":"boost_percentage","trait_type":"Model calving rate percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Herd calving percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Calving percentage of all models Thelivestock","value":80},
-        {"display_type":"date","trait_type":"Date of birth","value":1622370590},
+        {"display_type":"date","trait_type":"Date of birth","value":1629228868},
         {"display_type":"date","trait_type":"NFT start date","value":1652837648},
-        {"display_type":"date","trait_type":"Date of the last reward","value":1937903390},
+        {"display_type":"date","trait_type":"Date of the last reward","value":1944761668},
         {"display_type":"date","trait_type":"Latest metadata update","value":1663464845}
         ]
     }
