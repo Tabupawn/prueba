@@ -1,11 +1,11 @@
 {
-    "name":"Freya 4 🐮",
-    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/4.jpg",
-    "description":"FREYA 0004# 🐮 1/5  \n\nReplaces Wanda, who was sold to get fat. Freya is a determined and intelligent. \n\nShe is a calm and well-behaved female in the pens, although she is only a few months old she seems like a good mother. Like her predecessor, she was born in a period of extreme drought, but her mother knew how to raise her well.. \n\nShe is normal with humans. The relationship with the herd is  herd behavior. \n\nFollow Freya life on the [website model 4]( https://thelivestock.live/model-4/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
-    "external_url":"https://github.com/Tabupawn/prueba/4.doc",
+    "name":"Naomi 8 🐮",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/8.jpg",
+    "description":"NAOMI 0008# 🐮 1/5  \n\nShe replaces Evie, who was sold to get fat. Naomi is a determined and Trustworthy. \n\nShe is a female in good condition to be a mother and also has good pigmentation around her eyes that protects her vision from future complications. Like its predecessor, it was born in a period of extreme drought. The arrangement of its white spots on the body and especially on the head makes it rare because it is easily identifiable in the herd.. \n\nShe is normal with humans. The relationship with the herd is  herd behavior. \n\nFollow Naomi life on the [website model 8]( https://thelivestock.live/model-8/)  \n\nMore information about the NFT: \n\nEdition: 1/5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
+    "external_url":"https://github.com/Tabupawn/prueba/8.doc",
     "attributes":[
-        {"value":" Wheat dark coloured","trait_type":"Coat"},
-        {"value":"common","trait_type":"Special features"},
+        {"value":"Red with white","trait_type":"Coat"},
+        {"value":"rare","trait_type":"Special features"},
         {"value":"Without","trait_type":"Horns"},
         {"value":"Undefined","trait_type":"Mother"},
         {"value":"Undefined","trait_type":"Father"},
@@ -13,7 +13,7 @@
         {"value":"normal","trait_type":" Behavior with humans"},
         {"value":"normal","trait_type":"Body condition"},
         {"value":"determined","trait_type":"Primal personality"},
-        {"value":"intelligent","trait_type":"Secondary personality"},
+        {"value":"Trustworthy","trait_type":"Secondary personality"},
         {"value":"herd behavior","trait_type":"Personality with the herd"},
         {"value":"female","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
@@ -25,9 +25,9 @@
         {"display_type":"boost_percentage","trait_type":"Model calving rate percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Herd calving percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Calving percentage of all models Thelivestock","value":80},
-        {"display_type":"date","trait_type":"Date of birth","value":1643523442},
+        {"display_type":"date","trait_type":"Date of birth","value":1643530342},
         {"display_type":"date","trait_type":"NFT start date","value":1652837648},
-        {"display_type":"date","trait_type":"Date of the last reward","value":1959056242},
+        {"display_type":"date","trait_type":"Date of the last reward","value":1959063142},
         {"display_type":"date","trait_type":"Latest metadata update","value":1663464845}
         ]
-}
+    }
