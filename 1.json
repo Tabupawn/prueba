@@ -1,8 +1,8 @@
 {
-    "name":"Naomi 8 🐮",
-    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/8.jpg",
-    "description":"NAOMI 0008# 🐮 1/5  \n\nShe replaces Evie, who was sold to get fat. Naomi is a determined and Trustworthy. \n\nShe is a female in good condition to be a mother and also has good pigmentation around her eyes that protects her vision from future complications. Like its predecessor, it was born in a period of extreme drought. The arrangement of its white spots on the body and especially on the head makes it rare because it is easily identifiable in the herd.. \n\nShe is normal with humans. The relationship with the herd is  herd behavior. \n\nFollow Naomi life on the [website model 8]( https://thelivestock.live/model-8/)  \n\nMore information about the NFT: \n\nEdition: 1/5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
-    "external_url":"https://github.com/Tabupawn/prueba/8.doc",
+    "name":"Heart 33 🐮",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/33.jpg",
+    "description":"HEART 0033# 🐮 1/5  \n\nHeart is a intrepid and cunning. \n\nAs it is an animal with specific signs that are difficult to inherit, it was not intended to leave it as a bull, but precisely these signs give it a particularity that can be attractive to collectors. It is unique for having a white spot on its head that in contrast to its red covering stamps a red heart on its forehead. The arrangement of its white spots on the belly and especially on the head makes it rare because it is easily identifiable in the herd.. \n\nhe is normal with humans. The relationship with the herd is  herd behavior. \n\nFollow Heart life on the [website model 33]( https://thelivestock.live/model-33/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
+    "external_url":"https://github.com/Tabupawn/prueba/33.doc",
     "attributes":[
         {"value":"Red with white","trait_type":"Coat"},
         {"value":"rare","trait_type":"Special features"},
@@ -12,10 +12,10 @@
         {"value":"Genesis","trait_type":"Herd of cows"},
         {"value":"normal","trait_type":" Behavior with humans"},
         {"value":"normal","trait_type":"Body condition"},
-        {"value":"determined","trait_type":"Primal personality"},
-        {"value":"Trustworthy","trait_type":"Secondary personality"},
+        {"value":"intrepid","trait_type":"Primal personality"},
+        {"value":"cunning","trait_type":"Secondary personality"},
         {"value":"herd behavior","trait_type":"Personality with the herd"},
-        {"value":"female","trait_type":"Sex of the animal"},
+        {"value":"male","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
         {"display_type":"number","trait_type":"Life years","value":1,"max_value":10},
         {"trait_type":"Offspring of new cows","value":0,"max_value":10},
@@ -25,9 +25,9 @@
         {"display_type":"boost_percentage","trait_type":"Model calving rate percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Herd calving percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Calving percentage of all models Thelivestock","value":80},
-        {"display_type":"date","trait_type":"Date of birth","value":1643530342},
+        {"display_type":"date","trait_type":"Date of birth","value":1643184742},
         {"display_type":"date","trait_type":"NFT start date","value":1652837648},
-        {"display_type":"date","trait_type":"Date of the last reward","value":1959063142},
+        {"display_type":"date","trait_type":"Date of the last reward","value":1958717542},
         {"display_type":"date","trait_type":"Latest metadata update","value":1663464845}
         ]
-    }
+}
