@@ -1,19 +1,19 @@
 {
-    "name":"Winter 3 🐮",
-    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/3.jpg",
-    "description":"WINTER 0003# 🐮 1/5  \n\nShe replaces Tammy who was sold to get fat. Winter is a curious and quiet. \n\nAlthough it is not seen at first glance, it has a white cloak on its belly. She is a female with a very good constitution and has a lot of potential as a mother. Her first few months were difficult for her genesis mothers due to an intense drought, but she was able to grow up healthy. Like her sisters, she was going to be sold in feedlots, but TheLiveStock rescued her from that cruel fate.. \n\nShe is great with humans. The relationship with the herd is  herd behavior. \n\nFollow Winter life on the [website model 3]( https://thelivestock.live/model-3/)  \n\nMore information about the NFT: \n\nEdition: 1/5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
-    "external_url":"https://github.com/Tabupawn/prueba/3.doc",
+    "name":"Freya 4 🐮",
+    "image":"https://raw.githubusercontent.com/Tabupawn/prueba/main/4.jpg",
+    "description":"FREYA 0004# 🐮 1/5  \n\nReplaces Wanda, who was sold to get fat. Freya is a determined and intelligent. \n\nShe is a calm and well-behaved female in the pens, although she is only a few months old she seems like a good mother. Like her predecessor, she was born in a period of extreme drought, but her mother knew how to raise her well.. \n\nShe is normal with humans. The relationship with the herd is  herd behavior. \n\nFollow Freya life on the [website model 4]( https://thelivestock.live/model-4/)  \n\nMore information about the NFT: \n\nEdition: 1st of 5 \n\nEthereum blockchain (ERC-1155) \n\nSize:500x500 \n\nModel year: 2021 \n\nPhotographer: Fiora \n\nYou are also entitled to a commercial license, read the terms [here]( https://thelivestock.live/digital-collectible-terms/). \n\n Unlockable content [here](https://thelivestock.live/unlockable-content/).",
+    "external_url":"https://github.com/Tabupawn/prueba/4.doc",
     "attributes":[
-        {"value":"Red with white","trait_type":"Coat"},
+        {"value":" Wheat dark coloured","trait_type":"Coat"},
         {"value":"common","trait_type":"Special features"},
         {"value":"Without","trait_type":"Horns"},
         {"value":"Undefined","trait_type":"Mother"},
         {"value":"Undefined","trait_type":"Father"},
         {"value":"Genesis","trait_type":"Herd of cows"},
-        {"value":"great","trait_type":" Behavior with humans"},
-        {"value":"Excellent","trait_type":"Body condition"},
-        {"value":"curious","trait_type":"Primal personality"},
-        {"value":"quiet","trait_type":"Secondary personality"},
+        {"value":"normal","trait_type":" Behavior with humans"},
+        {"value":"normal","trait_type":"Body condition"},
+        {"value":"determined","trait_type":"Primal personality"},
+        {"value":"intelligent","trait_type":"Secondary personality"},
         {"value":"herd behavior","trait_type":"Personality with the herd"},
         {"value":"female","trait_type":"Sex of the animal"},
         {"display_type":"number","trait_type":"Generations of cattle","value":1,"max_value":10},
@@ -25,9 +25,9 @@
         {"display_type":"boost_percentage","trait_type":"Model calving rate percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Herd calving percentage","value":0},
         {"display_type":"boost_percentage","trait_type":"Calving percentage of all models Thelivestock","value":80},
-        {"display_type":"date","trait_type":"Date of birth","value":1624149124},
+        {"display_type":"date","trait_type":"Date of birth","value":1643523442},
         {"display_type":"date","trait_type":"NFT start date","value":1652837648},
-        {"display_type":"date","trait_type":"Date of the last reward","value":1939681924},
+        {"display_type":"date","trait_type":"Date of the last reward","value":1959056242},
         {"display_type":"date","trait_type":"Latest metadata update","value":1663464845}
         ]
-        }
+}
